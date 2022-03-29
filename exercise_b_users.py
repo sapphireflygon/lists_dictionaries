@@ -87,3 +87,8 @@ users["Erik"]["pets"].append({
 }
 )
 # 10. Add another person to the users dictionary
+users["Bob"] = {
+    "twitter" : "boboduck",
+    "lottery_numbers" : [3, 75, 18, 5, 30, 98],
+    "home_town" : "Edinburgh"
+}
